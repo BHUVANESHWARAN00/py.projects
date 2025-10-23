@@ -1,6 +1,6 @@
 # Python Mini Projects by Bhuvaneshwaran G
  
-This repository contains a collection of fun and useful **Python programs** created using **VS Code**.  
+This repository contains a collection of **Python programs** created using **VS Code**.  
 Each project focuses on learning different programming concepts — from loops and functions to OOPs and file handling.
  
 ---
@@ -96,10 +96,11 @@ Visual Studio Code
 Git & GitHub
 ---
 
-Concepts: Loops, Functions, Conditionals, Random module, OOPs, File Handling
-
+###Concepts: Loops, Functions, Conditionals, Random module, OOPs, File Handling
 ---
 
 Author
 Bhuvaneshwaran G
 B.Tech Biotechnology
+---
+
